@@ -21,5 +21,6 @@ Neste readme, vou descrever as principais funcionalidades.
 1 - npm init ( Iniciar um projeto, solicitando informações )<br>
 2 - npm init-y ( Não solicita informações iniciais )<br>
 3 - Package.json ( Neste arquivo, determinamos nosso arquivo principal em "Main")
+  > Licença MIT é uma das mais utilizadas
 
 -----------------------------------------------------------
