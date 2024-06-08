@@ -19,4 +19,5 @@ Arquivos que compoem uma estrutura NodeJs:<br><br>
 
 Iniciando Projeto Node:<br><br>
 1 - npm init ( Iniciar um projeto, solicitando informações )<br>
-2 - npm init-y ( Não solicita informações iniciais )
+2 - npm init-y ( Não solicita informações iniciais )<br>
+3 - Package.json ()
