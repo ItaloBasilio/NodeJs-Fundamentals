@@ -6,7 +6,7 @@ Neste readme, vou descrever as principais funcionalidades.
 
 -----------------------------------------------------------
 
-Arquivos que compoem uma estrutura NodeJs:<br><br>
+☕ Arquivos que compoem uma estrutura NodeJs:<br><br>
 1 - Package.json<br>
 2 - App.js<br>
 3 - Server.js<br>
@@ -17,7 +17,9 @@ Arquivos que compoem uma estrutura NodeJs:<br><br>
 
 -----------------------------------------------------------
 
-Iniciando Projeto Node:<br><br>
+☕ Iniciando Projeto Node:<br><br>
 1 - npm init ( Iniciar um projeto, solicitando informações )<br>
 2 - npm init-y ( Não solicita informações iniciais )<br>
 3 - Package.json ( Neste arquivo, determinamos nosso arquivo principal em "Main")
+
+-----------------------------------------------------------
