@@ -25,7 +25,7 @@ Neste readme, vou descrever as principais funcionalidades.
 
 -----------------------------------------------------------
 
-☕Pasta Src
+☕Pasta Src<br><br>
 1 - Todos os arquivos que ficarem dentro da pasta "src", serão os arquivos a serem codificados.<br>
 2 - Arquivos fora da pasta "src" são arquivos de configuração<br>
 3 - Dentro da pasta "src", criamos o nosso entry point, no caso "index.js"<br>
@@ -33,7 +33,7 @@ Neste readme, vou descrever as principais funcionalidades.
 
 -----------------------------------------------------------
 
-☕Instalando o Nodemon para sincronização de updates
+☕Instalando o Nodemon para sincronização de updates<br><br>
 1 - No terminal , inserir o comando npm install -g nodemon<br>
 2 - Acessar o "package.json" e em "scripts" inserir o exemplo "dev": "nodemon index.js"<br>
 3 - Verificar o caminho correto do arquivo index.js
