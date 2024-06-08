@@ -33,7 +33,7 @@ Neste readme, vou descrever as principais funcionalidades.
 
 -----------------------------------------------------------
 
-☕Instalando o Nodemon para sincronização de updates<br><br>
+☕Instalando o Nodemon para vigiar updates<br><br>
 1 - No terminal , inserir o comando npm install -g nodemon<br>
 2 - Acessar o "package.json" e em "scripts" inserir o exemplo "dev": "nodemon index.js"<br>
 3 - Verificar o caminho correto do arquivo index.js
